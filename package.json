@@ -2,7 +2,7 @@
   "name": "utah-online-schools",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://jbejar.github.io/utah-online-schools",
+  "homepage": "https://jbejar.github.io/utah-online-schools",
   "dependencies": {
     "react": "^16.2.0",
     "react-bootstrap": "^0.31.5",
@@ -15,5 +15,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
   }
 }
